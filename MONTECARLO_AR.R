@@ -1,7 +1,3 @@
-#     TALLER SEMANAL 3: ESTADÍSTICA COMPUTACIONAL
-#                  FABIOLA AGUILAR
-####################################################
-
 # GRAFICA 
 
 curve(atan(x), from = 0, to = 1, ylim = c(0,0.89))
