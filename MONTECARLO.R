@@ -1,6 +1,3 @@
-#             TALLER Nº1 : ESTADÍSTICA COMPUTACIONAL
-#                       Fabiola Aguilar
-
 # FUNCIÓN DE DENSIDAD DE DISTRIBUCIÓN ERLANG
 
 erlang <- function(x){
