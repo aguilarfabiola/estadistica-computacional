@@ -1,6 +1,3 @@
-######### TALLER SEMANAL Nº2 : ESTADÍSTICA COMPUTACIONAL ##############
-#########             FABIOLA AGUILAR                    ##############
-
 # LIBRERIA
 
 library(gaussquad)
